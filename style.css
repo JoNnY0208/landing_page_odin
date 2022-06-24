@@ -130,9 +130,13 @@ h1 {
 .quote {
     background: #E5E7EB;
     height: 500px;
-    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
 }
 
 .quoteText {
-    max-width: 300px;
+    max-width: 600px;
+    font-size: 36px;
+    color: #1F2937;
 }
