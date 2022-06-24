@@ -126,3 +126,13 @@ h1 {
     padding-right: 100px;
     height: 500px;
 }
+
+.quote {
+    background: #E5E7EB;
+    height: 500px;
+    align-items: center;
+}
+
+.quoteText {
+    max-width: 300px;
+}
